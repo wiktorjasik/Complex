@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Complex.cpp
+  Generating Code...
+d:\projekty\visual\complex\complex\complex.cpp(64): warning C4172: returning address of local variable or temporary
+d:\projekty\visual\complex\complex\complex.cpp(131): warning C4172: returning address of local variable or temporary
+d:\projekty\visual\complex\complex\complex.cpp(126): warning C4172: returning address of local variable or temporary
+  Complex.vcxproj -> D:\Projekty\Visual\Complex\Debug\Complex.exe
